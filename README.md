@@ -30,7 +30,6 @@ Cada arquivo é independente e contém:
 
 No terminal, utilize o gcc para compilar e executar cada programa:
 
-bash
 gcc q1-aloc.c -o q1
 ./q1
 
