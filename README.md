@@ -22,15 +22,15 @@ Free: Libera o espaço da memória utlizado.
 Cada arquivo é independente e contém:
 
 * Entrada de dados pelo usuário.
-* Uso de ponteiros e `malloc`/`calloc`/`realloc`.
+* Uso de ponteiros e malloc/calloc/realloc.
 * Processamento dos dados (ex.: armazenar, manipular ou calcular valores).
-* Liberação da memória com `free()`.
+* Liberação da memória com free().
 
 ## Como compilar e executar
 
-No terminal, utilize o `gcc` para compilar e executar cada programa:
+No terminal, utilize o gcc para compilar e executar cada programa:
 
-```bash
+bash
 gcc q1-aloc.c -o q1
 ./q1
 
