@@ -36,7 +36,7 @@ gcc q1-aloc.c -o q1
 
 gcc q2-aloc.c -o q2
 ./q2
-```
 
-(O mesmo vale para `q3`, `q4`, `q5`.)
+
+(O mesmo vale para q3, q4, q5.)
 
