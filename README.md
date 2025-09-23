@@ -61,3 +61,15 @@ gcc q3_parte2.c -o q3p2
 * **q2-aloc.c**
   
 ![alt text](image-1.png)
+
+* **q3-aloc.c**
+
+![alt text](image-2.png)
+
+* **q4-aloc.c**
+
+![alt text](image-3.png)
+
+* **q5-aloc.c**
+
+![alt text](image-4.png)
