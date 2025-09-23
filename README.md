@@ -56,11 +56,11 @@ gcc q3_parte2.c -o q3p2
 
 * **q1-aloc.c**
   
-![alt text](image.png)
+<img width="724" height="661" alt="Screenshot from 2025-09-22 21-45-31" src="https://github.com/user-attachments/assets/e012536c-2c9b-4dd8-bfc3-00b1a1856150" />
 
 * **q2-aloc.c**
   
-![alt text](image-1.png)
+<img width="1165" height="777" alt="Screenshot from 2025-09-22 21-47-14" src="https://github.com/user-attachments/assets/8a2c98a6-be69-4336-a9a6-538eb97e19f3" />
 
 * **q1_parte2.c**
   
