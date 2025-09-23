@@ -31,18 +31,23 @@ Cada arquivo é independente e contém:
 No terminal, utilize o gcc para compilar e executar cada programa:
 
 gcc q1-aloc.c -o q1
+
 ./q1
 
 gcc q2-aloc.c -o q2
+
 ./q2
 
 gcc q1_parte2.c -o q1p2
+
 ./q1p2
 
 gcc q2_parte2.c -o q2p2
+
 ./q2p2
 
 gcc q3_parte2.c -o q3p2
+
 ./q3p2
 
 
