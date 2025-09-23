@@ -42,7 +42,9 @@ gcc q2-aloc.c -o q2
 ## Prints dos códigos em execução
 
 * **q1-aloc.c**
+  
 ![alt text](image.png)
 
 * **q2-aloc.c**
+  
 ![alt text](image-1.png)
