@@ -55,8 +55,8 @@ gcc q3_parte2.c -o q3p2
 ## Prints dos códigos em execução
 
 * **q1-aloc.c**
-  
-<img width="724" height="661" alt="Screenshot from 2025-09-22 21-45-31" src="https://github.com/user-attachments/assets/e012536c-2c9b-4dd8-bfc3-00b1a1856150" />
+
+<img width="1102" height="669" alt="Screenshot from 2025-09-22 21-49-09" src="https://github.com/user-attachments/assets/6f7a8c1e-d80b-42fa-aae9-9ada0b77ab19" />
 
 * **q2-aloc.c**
   
