@@ -15,9 +15,9 @@ Free: Libera o espaço da memória utlizado.
 
 * **q1-aloc.c** → Exercício 1 de alocação dinâmica.
 * **q2-aloc.c** → Exercício 2 de alocação dinâmica.
-* **q3-aloc.c** → Exercício 3 de alocação dinâmica.
-* **q4-aloc.c** → Exercício 4 de alocação dinâmica.
-* **q5-aloc.c** → Exercício 5 de alocação dinâmica.
+* **q1_parte2.c** → Exercício 1 da parte 2 de alocação dinâmica.
+* **q2_parte2.c** → Exercício 2 da parte 2 de alocação dinâmica.
+* **q3parte2.c** → Exercício 3 da parte 2 de alocação dinâmica.
 
 Cada arquivo é independente e contém:
 
@@ -36,8 +36,16 @@ gcc q1-aloc.c -o q1
 gcc q2-aloc.c -o q2
 ./q2
 
+gcc q1_parte2.c -o q1p2
+./q1p2
 
-(O mesmo vale para q3, q4, q5.)
+gcc q2_parte2.c -o q2p2
+./q2p2
+
+gcc q3_parte2.c -o q3p2
+./q3p2
+
+
 
 ## Prints dos códigos em execução
 
