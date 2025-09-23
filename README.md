@@ -62,14 +62,15 @@ gcc q3_parte2.c -o q3p2
   
 ![alt text](image-1.png)
 
-* **q3-aloc.c**
+* **q1_parte2.c**
+  
+<img width="721" height="731" alt="q1p2" src="https://github.com/user-attachments/assets/152ce2b5-109b-478c-896f-5f53dfc40205" />
 
-![alt text](image-2.png)
+* **q2_parte2.c**
+  
+<img width="843" height="747" alt="q2p2" src="https://github.com/user-attachments/assets/4af6ef74-4cca-4f68-ab6f-dd43084c7bc4" />
 
-* **q4-aloc.c**
+* **q3_parte2.c**
+  
+<img width="1051" height="769" alt="q3p2" src="https://github.com/user-attachments/assets/0b899a2d-faff-48ea-90f6-0604bb38090d" />
 
-![alt text](image-3.png)
-
-* **q5-aloc.c**
-
-![alt text](image-4.png)
